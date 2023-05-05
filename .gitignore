@@ -1,6 +1,6 @@
 .terraform.lock.hcl
 .terraform
 terraform.tfstate*
-keypair*
+*.pem
 ec2-instance-and-security-groups/terraform-manifests/local-exec-output-files/*
 !.gitkeep

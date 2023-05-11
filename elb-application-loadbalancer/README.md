@@ -1,0 +1,1 @@
+![Screenshot](elb-application-architecture.png)

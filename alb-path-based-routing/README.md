@@ -1,0 +1,1 @@
+![Screenshot](alb-context-path-based-routing.png)

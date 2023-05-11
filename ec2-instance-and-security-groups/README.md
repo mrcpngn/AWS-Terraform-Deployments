@@ -1,0 +1,1 @@
+![Screenshot](ec2-instance-and-security-group.drawio.png)

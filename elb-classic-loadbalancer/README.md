@@ -1,0 +1,1 @@
+![Screenshot](elb-classic-architecture.png)

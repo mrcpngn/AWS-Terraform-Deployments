@@ -1,0 +1,1 @@
+![Screenshot](alb-host-header-based-routing-diagram.png)
